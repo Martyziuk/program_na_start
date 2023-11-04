@@ -1,0 +1,14 @@
+D:\PROGRAMY\merito_gr\ConsoleApp3\aplikacjakonsolowa1\bin\Debug\net6.0\aplikacjakonsolowa1.exe
+D:\PROGRAMY\merito_gr\ConsoleApp3\aplikacjakonsolowa1\bin\Debug\net6.0\aplikacjakonsolowa1.deps.json
+D:\PROGRAMY\merito_gr\ConsoleApp3\aplikacjakonsolowa1\bin\Debug\net6.0\aplikacjakonsolowa1.runtimeconfig.json
+D:\PROGRAMY\merito_gr\ConsoleApp3\aplikacjakonsolowa1\bin\Debug\net6.0\aplikacjakonsolowa1.dll
+D:\PROGRAMY\merito_gr\ConsoleApp3\aplikacjakonsolowa1\bin\Debug\net6.0\aplikacjakonsolowa1.pdb
+D:\PROGRAMY\merito_gr\ConsoleApp3\aplikacjakonsolowa1\obj\Debug\net6.0\aplikacjakonsolowa1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMY\merito_gr\ConsoleApp3\aplikacjakonsolowa1\obj\Debug\net6.0\aplikacjakonsolowa1.AssemblyInfoInputs.cache
+D:\PROGRAMY\merito_gr\ConsoleApp3\aplikacjakonsolowa1\obj\Debug\net6.0\aplikacjakonsolowa1.AssemblyInfo.cs
+D:\PROGRAMY\merito_gr\ConsoleApp3\aplikacjakonsolowa1\obj\Debug\net6.0\aplikacjakonsolowa1.csproj.CoreCompileInputs.cache
+D:\PROGRAMY\merito_gr\ConsoleApp3\aplikacjakonsolowa1\obj\Debug\net6.0\aplikacjakonsolowa1.dll
+D:\PROGRAMY\merito_gr\ConsoleApp3\aplikacjakonsolowa1\obj\Debug\net6.0\refint\aplikacjakonsolowa1.dll
+D:\PROGRAMY\merito_gr\ConsoleApp3\aplikacjakonsolowa1\obj\Debug\net6.0\aplikacjakonsolowa1.pdb
+D:\PROGRAMY\merito_gr\ConsoleApp3\aplikacjakonsolowa1\obj\Debug\net6.0\aplikacjakonsolowa1.genruntimeconfig.cache
+D:\PROGRAMY\merito_gr\ConsoleApp3\aplikacjakonsolowa1\obj\Debug\net6.0\ref\aplikacjakonsolowa1.dll
